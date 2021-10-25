@@ -23,5 +23,5 @@ Kemudian untuk menampilkan outputnya menggunakan print() seperti ini :
 
 Nantinya, *namalengkap* akan diisi sesuai dengan nama yang ditulis user.    
 Kalau dilihat outputnya, maka akan seperti ini :    
-![Gambar 1](Screenshot/ss1.PNG)    
+![Gambar 1](screenshot/ss1.PNG)    
 Sekian terimakasih.  
